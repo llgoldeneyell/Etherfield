@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Etherfield/static/css/main.4ea24607.css",
+    "main.js": "/Etherfield/static/js/main.e383bc8d.js",
+    "static/js/787.0d8eff50.chunk.js": "/Etherfield/static/js/787.0d8eff50.chunk.js",
+    "static/media/Etherfields.png": "/Etherfield/static/media/Etherfields.8fcb3d361a6f50689677.png",
+    "static/media/SlumberDeck.png": "/Etherfield/static/media/SlumberDeck.17a83ace49520c13a54e.png",
+    "static/media/Gate.jpg": "/Etherfield/static/media/Gate.cc9523863a9d5be5ebc1.jpg",
+    "static/media/GamblerDreamer.png": "/Etherfield/static/media/GamblerDreamer.62eebf6cc14e0e839596.png",
+    "static/media/SlumberMap.png": "/Etherfield/static/media/SlumberMap.8cd47c333e7b686d9108.png",
+    "static/media/SpecialistDreamer.png": "/Etherfield/static/media/SpecialistDreamer.d3d050706f54adc12bb8.png",
+    "static/media/FreeSpiritDreamer.png": "/Etherfield/static/media/FreeSpiritDreamer.dd85188947bf0774b244.png",
+    "static/media/ToughGuyDreamer.png": "/Etherfield/static/media/ToughGuyDreamer.2350063aa5c20a1e976b.png",
+    "static/media/Storage.jpg": "/Etherfield/static/media/Storage.52b33b8ebf8b1e1ecd70.jpg",
+    "static/media/Fate.jpg": "/Etherfield/static/media/Fate.ef0bfeb4a8b71a8d3086.jpg",
+    "index.html": "/Etherfield/index.html",
+    "main.4ea24607.css.map": "/Etherfield/static/css/main.4ea24607.css.map",
+    "main.e383bc8d.js.map": "/Etherfield/static/js/main.e383bc8d.js.map",
+    "787.0d8eff50.chunk.js.map": "/Etherfield/static/js/787.0d8eff50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea24607.css",
+    "static/js/main.e383bc8d.js"
+  ]
+}
